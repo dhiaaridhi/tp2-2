@@ -1,0 +1,17 @@
+h1{
+	text-align:center;
+
+}
+div{
+	text-align:center;
+}
+body{
+	background-color:#008080;
+}
+button{
+	box-shadow:0 0 5px #400040,0 0 25px #400040;
+}
+button:hover{
+	box-shadow:0 0 5px #400040, 0 0 25px #400040, 0 0 50px #400040, 0 0 100px #400040, 0 0 200px #400040;
+	
+}
